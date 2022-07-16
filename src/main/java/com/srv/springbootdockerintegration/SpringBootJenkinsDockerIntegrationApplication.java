@@ -8,6 +8,7 @@ public class SpringBootJenkinsDockerIntegrationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJenkinsDockerIntegrationApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
